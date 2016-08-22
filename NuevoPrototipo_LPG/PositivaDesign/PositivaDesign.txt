@@ -1,0 +1,11 @@
+1: AUTO-COMPLETE PONER DE COLOR GRISSS;
+2: crear progressbar en service al final de la tabla
+
+
+3: adicionar en la pantalla de  proveedor unico numero de solicitud. == ok
+
+
+4: Agregar un pequeño titulo en solicitud de servicio = "Solicitudes en borrador" == ok
+5: Proveedor unico y revision presupuestal mostrar en grilla y al hacer click en una de los items mostrar el detalle == ok
+6: las cabaceras mostrar solo en modo lectura y cuando se hace click en el numero de solicitud mostrar un preview del documento ==ok
+
